@@ -1,0 +1,70 @@
+<!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sham K - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            background: white;
+            padding: 20px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Sham K</h1>
+        <p>Email: shamkaliyappan@gmail.com | Phone: 8148209260</p><h2>Objective</h2>
+    <p>Passionate and dedicated B.Sc. Computer Science student with a strong foundation in programming, databases, and software development. Seeking internship or entry-level opportunities to apply and expand my technical skills.</p>
+    
+    <h2>Education</h2>
+    <ul>
+        <li><strong>Alpha Arts and Science College, Porur</strong> - B.Sc. Computer Science (Expected Graduation Year)</li>
+        <li><strong>A.V.S High School</strong> - Grade: 80% (6th-10th)</li>
+        <li><strong>Government Higher Secondary School</strong> - Grade: 90% (11th-12th)</li>
+    </ul>
+    
+    <h2>Certifications</h2>
+    <ul>
+        <li>CDAC Certificate</li>
+        <li>Infosys OOPS using Python</li>
+        <li>MongoDB</li>
+        <li>Microsoft</li>
+        <li>IBM Skills Build</li>
+    </ul>
+    
+    <h2>Technical Skills</h2>
+    <ul>
+        <li><strong>Programming:</strong> C, C++, Python, Java</li>
+        <li><strong>Database Management:</strong> MySQL, MongoDB</li>
+        <li><strong>Web Development:</strong> HTML, CSS, JavaScript</li>
+        <li><strong>Soft Skills:</strong> Problem-Solving, Analytical Thinking, Team Collaboration, Communication</li>
+    </ul>
+    
+    <h2>Languages</h2>
+    <ul>
+        <li>English</li>
+        <li>Tamil</li>
+    </ul>
+</div>
+
+</body>
+</html>
